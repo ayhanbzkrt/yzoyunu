@@ -48,3 +48,30 @@ Projeyi GitHub Pages üzerinden canlı olarak görüntüleyebilirsiniz. (Elinizd
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/concept-cards-game.git
+
+
+
+Contact / İletişim
+English:
+
+Project Owner: Ayhan Bozkurt
+
+Email: ayhanbzkrt@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ayhanbozkurt/
+
+Project URL: https://ayhanbzkrt.github.io/yzoyunu/
+
+Usage rights: All usage rights belong to Ayhan Bozkurt.
+
+Türkçe:
+
+Proje Sahibi: Ayhan Bozkurt
+
+E-posta: ayhanbzkrt@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/ayhanbozkurt/
+
+Proje URL: https://ayhanbzkrt.github.io/yzoyunu/
+
+Kullanım Hakları: Kullanım hakları Ayhan Bozkurt'a aittir.
